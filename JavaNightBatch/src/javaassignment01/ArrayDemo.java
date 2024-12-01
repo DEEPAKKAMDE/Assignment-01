@@ -9,8 +9,8 @@ public class ArrayDemo {
 		char ch[] = { 'a', 'e', 'i', 'o', 'u' }; // Char Array
 
 		String str[] = { "Java", "Python", "Ruby", "PHP", "React", "Selenium" }; // String Array
-		
-		
+
+
 
 		System.out.println(a[0]);
 		System.out.println(a[3]);
